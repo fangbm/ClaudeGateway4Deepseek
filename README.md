@@ -1,6 +1,6 @@
-# claude-gateway-for-deepseek (cg4d)
+# ClaudeGateway4Deepseek (cg4d)
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fangbm/claude-gateway-for-deepseek)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fangbm/ClaudeGateway4Deepseek)
 
 [English](README.md) | [简体中文](README_zh.md)
 
