@@ -1,5 +1,5 @@
 /**
- * claude-gateway-4-deepseek (cg4d)
+ * ClaudeGateway4Deepseek (cg4d)
  *
  * A Cloudflare Worker that:
  * 1. Serves a fake /v1/models list so Claude Desktop can start.
