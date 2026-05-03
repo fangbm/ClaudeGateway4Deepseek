@@ -1,5 +1,7 @@
 # claude-gateway-4-deepseek (cg4d)
 
+[English](README.md) | [简体中文](README_zh.md)
+
 A lightweight Cloudflare Worker that lets **Claude Desktop** (and Claude Code CLI) talk to **DeepSeek** through an Anthropic-compatible API shim.
 
 ## What it does
